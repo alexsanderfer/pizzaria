@@ -53,7 +53,15 @@ header {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top center;
-} 
+}
+
+header h1 {
+    font-family: Roboto, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 500%;
+    color: #FFF;
+    text-align: center;
+    padding-top: 30%;
+}
 
 main {
     margin:0;
