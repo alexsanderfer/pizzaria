@@ -6,6 +6,7 @@ nav {
     position: fixed;
     width: 100%;
     background-color: rgba(0,0,0,0.2);
+    top: 0;
 }  
 
 nav img {
@@ -18,8 +19,6 @@ nav ul#menu-desktop {
     margin:0;
     padding:0;
     text-align: right;
-    position: fixed;
-    top: 0;
 }
 
 nav ul#menu-desktop li {
